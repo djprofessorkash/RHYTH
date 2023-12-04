@@ -1,0 +1,31 @@
+# Local Audio/Streaming Data
+media/
+*/media/
+*.mp3
+*/*.mp3
+
+# Local Node Dependency Data
+package-lock.json
+*/package-lock.json
+node_modules/
+*/node_modules/
+.pnp
+*/.pnp
+.pnp.js
+*/.pnp.js
+
+# Testing Configuration Data
+coverage/
+*/coverage/
+
+# Production Configuration Data
+build/
+*/build/
+
+# Node Environment Configuration Variables
+.env.*
+*/.env.*
+
+# Node Debugging/Logging Tools
+*.log*
+*/*.log*
