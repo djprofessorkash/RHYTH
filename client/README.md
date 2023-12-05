@@ -4,6 +4,6 @@
 
 ---
 
-<h3><small><b>NOTE: </b>You are currently viewing the <i>development</i> branch.</small></h3>
+<h3><small><b>NOTE: </b>You are currently viewing the <i>main</i> branch.</small></h3>
 
-<p>General iterative project development changes will be tracked on this branch prior to testing and main version integration.</p>
+<p>All major project version releases will be tracked on this branch.</p>
