@@ -1,0 +1,55 @@
+# Local Audio/Streaming Data
+media/
+*/media/
+*.mp3
+*/*.mp3
+
+# Local Node Dependency Data
+package-lock.json
+*/package-lock.json
+node_modules/
+*/node_modules/
+.pnp
+*/.pnp
+.pnp.js
+*/.pnp.js
+
+# Yarn Dependency Setup Data
+.yarn/install-state.gz
+*/.yarn/install-state.gz
+
+# Testing Configurations
+coverage/
+*/coverage/
+
+# Production Configurations
+build/
+*/build/
+
+# Vercel Deployment Configurations
+.vercel
+*/.vtsbuildinfo
+
+# TypeScript Configurations
+*.tsbuildinfo
+*/*.tsbuildinfo
+next-env.d.ts
+*/next-env.d.ts
+
+# Next Configurations
+.next/
+*/.next/
+out/
+*/out/
+
+# Node Environment Configuration Variables
+.env.*
+*/.env.*
+
+# Node Debugging/Logging Tools
+*.log*
+*/*.log*
+
+# Miscellaneous
+*.pem
+*/*.pem

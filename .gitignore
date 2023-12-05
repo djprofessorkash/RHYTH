@@ -6,21 +6,9 @@
 .DS_Store
 */.DS_Store
 
-# Node Dependency Architectures
-node_modules/
-*/node_modules/
-
 # Virtual Environment Configuration Data
 .venv/
 */.venv/
-
-# Client-Side Dependency Configuration Data
-package-lock.json
-*/package-lock.json
-
-# Server-Side Dependency Configuration Data
-Pipfile.lock
-*/Pipfile.lock
 
 # Project Development Deliverable Tracking Notes
 OBJECTIVES.md
